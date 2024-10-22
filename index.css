@@ -42,8 +42,15 @@ body {
   
   #increment-btn {
    background: #2C2891;;
+   
   }
   
   #save-btn {
     background: #660063;
   }  
+p {
+  font-family:"Comic Sans MS";
+}
+#maindiv {
+  background-color:lightblue;
+}
